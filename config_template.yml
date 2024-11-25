@@ -1,0 +1,13 @@
+# env
+#AI search
+aisearch_endpoint : "-----------------------"
+aisearch_credential : "-----------------------"
+aisearch_index_name : "sbm_index"
+#Azure openai
+azure_openai_endpoint : "--------------------"
+azure_openai_key : "-----------------------------"
+azure_openai_model_deployment: "gpt-4o-mini"
+azure_openai_api_version : "2024-08-01-preview"
+#embedding model
+azure_openai_embedding_deployment : "text-embedding-ada-002"
+embedding_model_name : "text-embedding-ada-002"
